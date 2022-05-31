@@ -1,4 +1,3 @@
 import "github.com/xushiwei/gopbar/utils"
 
 utils.example
-
