@@ -1,0 +1,9 @@
+package utils
+
+import foo "github.com/xushiwei/gopfoo"
+
+func Example() {
+	rmap := foo.ReverseMap(map[string]int{"Hi": 1, "Hello": 2})
+	println(rmap)
+}
+

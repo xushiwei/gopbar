@@ -1,5 +1,4 @@
-import foo "github.com/xushiwei/gopfoo"
+import "github.com/xushiwei/gopbar/utils"
 
-rmap := foo.ReverseMap(map[string]int{"Hi": 1, "Hello": 2})
-println(rmap)
+utils.example
 
